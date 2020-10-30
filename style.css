@@ -57,7 +57,7 @@ body {
 }
 
 .conteiner .card:hover {
-	height: 700px;
+	height: 100%;
 }
 
 .conteiner .card .imgBX {
