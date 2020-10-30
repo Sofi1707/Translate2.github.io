@@ -13,7 +13,8 @@ body {
 .google-translate {
     display: inline-block;
     vertical-align: top;
-    padding-top: 15px;
+	padding-top: 15px;
+	padding-left: 500px;
 }
 
 .goog-logo-link {
